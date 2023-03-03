@@ -1,0 +1,15 @@
+C:\Users\16142\Downloads\repos\FizzBuzz-Challenge\FizzBuzz-Challenge\bin\Debug\net6.0\FizzBuzz-Challenge.exe
+C:\Users\16142\Downloads\repos\FizzBuzz-Challenge\FizzBuzz-Challenge\bin\Debug\net6.0\FizzBuzz-Challenge.deps.json
+C:\Users\16142\Downloads\repos\FizzBuzz-Challenge\FizzBuzz-Challenge\bin\Debug\net6.0\FizzBuzz-Challenge.runtimeconfig.json
+C:\Users\16142\Downloads\repos\FizzBuzz-Challenge\FizzBuzz-Challenge\bin\Debug\net6.0\FizzBuzz-Challenge.dll
+C:\Users\16142\Downloads\repos\FizzBuzz-Challenge\FizzBuzz-Challenge\bin\Debug\net6.0\FizzBuzz-Challenge.pdb
+C:\Users\16142\Downloads\repos\FizzBuzz-Challenge\FizzBuzz-Challenge\obj\Debug\net6.0\FizzBuzz-Challenge.csproj.AssemblyReference.cache
+C:\Users\16142\Downloads\repos\FizzBuzz-Challenge\FizzBuzz-Challenge\obj\Debug\net6.0\FizzBuzz-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16142\Downloads\repos\FizzBuzz-Challenge\FizzBuzz-Challenge\obj\Debug\net6.0\FizzBuzz-Challenge.AssemblyInfoInputs.cache
+C:\Users\16142\Downloads\repos\FizzBuzz-Challenge\FizzBuzz-Challenge\obj\Debug\net6.0\FizzBuzz-Challenge.AssemblyInfo.cs
+C:\Users\16142\Downloads\repos\FizzBuzz-Challenge\FizzBuzz-Challenge\obj\Debug\net6.0\FizzBuzz-Challenge.csproj.CoreCompileInputs.cache
+C:\Users\16142\Downloads\repos\FizzBuzz-Challenge\FizzBuzz-Challenge\obj\Debug\net6.0\FizzBuzz-Challenge.dll
+C:\Users\16142\Downloads\repos\FizzBuzz-Challenge\FizzBuzz-Challenge\obj\Debug\net6.0\refint\FizzBuzz-Challenge.dll
+C:\Users\16142\Downloads\repos\FizzBuzz-Challenge\FizzBuzz-Challenge\obj\Debug\net6.0\FizzBuzz-Challenge.pdb
+C:\Users\16142\Downloads\repos\FizzBuzz-Challenge\FizzBuzz-Challenge\obj\Debug\net6.0\FizzBuzz-Challenge.genruntimeconfig.cache
+C:\Users\16142\Downloads\repos\FizzBuzz-Challenge\FizzBuzz-Challenge\obj\Debug\net6.0\ref\FizzBuzz-Challenge.dll
